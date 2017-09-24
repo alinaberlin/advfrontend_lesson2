@@ -1,0 +1,19 @@
+{
+  "name": "redi_advanced",
+  "version": "1.0.0",
+  "description": "this is a project for learning React",
+  "main": "index.js",
+  "scripts": {
+   "dev": "next",
+   "build": "next build",
+   "start": "next start"
+  },
+  "keywords": [],
+  "author": "Alina Ghetler",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
